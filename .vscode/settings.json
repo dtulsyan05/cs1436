@@ -8,7 +8,8 @@
         "limits": "cpp",
         "locale": "cpp",
         "ratio": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "string": "cpp"
     },
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1,
